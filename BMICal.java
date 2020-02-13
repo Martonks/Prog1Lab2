@@ -2,15 +2,15 @@ import java.util.Scanner;
 public class BMICal{
 
 	 public static void main(String[] args) {
-	 	Scanner in = new Scanner(System.in);
-	 	double weight = Scanner.nextDouble();
-	 	double height = Scanner.nextDouble();
-
-	 	double bmi = weight/(height^2);
-
-	 	System.out.println("Your BMI is equal to " + bmi);
-
-	 	in.close();
+	 	Scanner scan = new Scanner(System.in);
+	 	System.out.println("Enter your weight: ");
+	 	double weight = scan.nextDouble();
+	 	System.out.println("Enter your height: ");
+	 	double height = scan.nextDouble();
+	 	
+	 	double weightPounds = weight *
+	 	double heightFeet = height *
+	 	
 	 }
 
 }
