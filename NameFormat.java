@@ -16,5 +16,6 @@ public class NameFormat{
 
 	System.out.println("Formatted name: "+first+" "+last);
 	
+	
 	}
 }
