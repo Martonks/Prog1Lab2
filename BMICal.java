@@ -4,6 +4,7 @@ public class BMICal{
 
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
+		
 		System.out.println("Enter your weight: ");
 		double weight = scan.nextDouble();
 
