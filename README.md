@@ -1,3 +1,3 @@
-# Prog1Lab2
+#Prog1Lab2
 
-These are the codes for the 2nd lab.
+This is the 2nd lab for Progamming 1
